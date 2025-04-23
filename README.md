@@ -12,4 +12,21 @@
 _Master the essentials of modern web development with hands-on projects and clear, practical guidance.
 From beginner to builder — turn ideas into fully functional websites._
 
+Step 1: Set Up Your GitHub Repository
+The first step is always the hardest — so let's make it easy!
+
+Create a new repository on GitHub.
+
+Give it a short and clear name like web-dev-course.
+
+Check "Add a README file" so people understand what your project is about.
+
+(Optional but helpful) Add a .gitignore for Node or Visual Studio Code if you're using them.
+
+Choose a license — we recommend the MIT License.
+
+📚 Need help? See GitHub Docs on Creating a Repository
+
+💡 Tip: Open links in a new tab so you can come back to your progress here!
+
 </header>
