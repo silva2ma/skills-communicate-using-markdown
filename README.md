@@ -7,9 +7,10 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# Communicate using Markdown
+# 🌐 WEB DEVELOPMENT COURSE
 
-_Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
+_Master the essentials of modern web development with hands-on projects and clear, practical guidance.
+From beginner to builder — turn ideas into fully functional websites._
 
 </header>
 
